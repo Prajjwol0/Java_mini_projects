@@ -1,6 +1,8 @@
 
 // 1. Basic Calculator App: Create a console-based calculator app that takes inputs, performs calculatiopns, and displays results.
 
+
+
 // Import util.Scanner for input
 /* import java.util.Scanner;
 
@@ -115,7 +117,6 @@ if(num2==0){
 }
 
 }
-
         
 
     }
